@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     @IBOutlet var registeredText: UILabel!
     
     @IBOutlet var loginButton: UIButton!
-    var test = String()
+    var test2 = String()
     var activityIndicator: UIActivityIndicatorView = UIActivityIndicatorView()
     
     func displayAlert(title: String, message: String) {
